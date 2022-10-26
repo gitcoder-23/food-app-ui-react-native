@@ -1,0 +1,39 @@
+
+
+// icons
+https://ionic.io/ionicons
+
+ "@material-ui/lab": "^4.0.0-alpha.60",
+57:46 2nd part
+ Iterceptor setup axios
+
+ npx react-native-clean-project
+com.ecomshop
+ com.shopy.shopyfirm
+ com.ecomshop.ecomshopfirm
+
+ // React Native Image Picker 
+
+https://youtu.be/3_ldEVWlL18
+
+//splash screen
+https://www.npmjs.com/package/react-native-lottie-splash-screen
+https://www.npmjs.com/package/lottie-react-native (used)
+
+https://airbnb.io/lottie/#/
+https://lottiefiles.com/tag/reactnative
+
+
+toupgrade native---> npx react-native upgrade
+
+// Image crop online
+https://www.img2go.com/crop-image
+
+// forlogo
+https://www.flaticon.com/
+
+
+// change app icons
+https://youtu.be/DQ8HDL-X9rM
+https://youtu.be/P-b3N8VCKTA
+
