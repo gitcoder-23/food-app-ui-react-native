@@ -1,6 +1,5 @@
 /* eslint-disable react-native/no-inline-styles */
 import {
-  Dimensions,
   FlatList,
   Image,
   SafeAreaView,
@@ -35,7 +34,7 @@ const HomeScreen = ({navigation}) => {
           </Text>
         </View>
         <Image
-          source={require('../../assets/person.png')}
+          source={require('../../assets/person-u.jpg')}
           style={{height: 50, width: 50, borderRadius: 25}}
         />
       </View>

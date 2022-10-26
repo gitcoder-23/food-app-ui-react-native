@@ -1,4 +1,4 @@
-package com.foodappuireactnative;
+package com.foodappui.foodapp;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

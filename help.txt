@@ -8,9 +8,8 @@ https://ionic.io/ionicons
  Iterceptor setup axios
 
  npx react-native-clean-project
-com.ecomshop
- com.shopy.shopyfirm
- com.ecomshop.ecomshopfirm
+ com.foodappuireactnative
+ com.foodappui.foodapp
 
  // React Native Image Picker 
 
