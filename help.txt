@@ -39,3 +39,10 @@ https://appicon.co/
 https://youtu.be/DQ8HDL-X9rM
 https://youtu.be/P-b3N8VCKTA
 
+// android or java build
+cd android && ./gradlew assembleRelease && cd ..
+
+./gradlew app:assembleRelease
+
+// cache
+cd android && ./gradlew cleanBuildCache
